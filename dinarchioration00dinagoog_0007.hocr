@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dinarchioration00dinagoog_0007.png"; bbox 0 0 2438 4380; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 68 1411 952 1526">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 68 1411 952 1526">
+     <span class='ocr_line' id='line_1_1' title="bbox 68 1411 952 1526; baseline 0.005 -4"><span class='ocrx_word' id='word_1_1' title='bbox 68 1411 300 1522; x_wconf 76' lang='lat' dir='ltr'><strong>CAROLI</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 340 1412 631 1525; x_wconf 72' lang='lat' dir='ltr'>RUDOLFI</span> <span class='ocrx_word' id='word_1_3' title='bbox 665 1413 952 1526; x_wconf 77' lang='lat' dir='ltr'><strong>FIOKERT</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 287 1682 730 1751">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 287 1682 730 1751">
+     <span class='ocr_line' id='line_1_2' title="bbox 287 1682 730 1751; baseline 0 -1"><span class='ocrx_word' id='word_1_4' title='bbox 287 1682 467 1750; x_wconf 60' lang='lat' dir='ltr'>(JYMNASH</span> <span class='ocrx_word' id='word_1_5' title='bbox 488 1683 730 1751; x_wconf 75' lang='lat' dir='ltr'><strong>ELISABETANI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 118 1921 900 2009">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 118 1921 900 2009">
+     <span class='ocr_line' id='line_1_3' title="bbox 118 1921 900 2009; baseline 0.006 -5"><span class='ocrx_word' id='word_1_6' title='bbox 118 1923 227 2005; x_wconf 80' lang='lat' dir='ltr'>PER</span> <span class='ocrx_word' id='word_1_7' title='bbox 254 1921 339 2004; x_wconf 90' lang='lat' dir='ltr'>VII</span> <span class='ocrx_word' id='word_1_8' title='bbox 370 1923 595 2007; x_wconf 72' lang='lat' dir='ltr'>LUSTRA</span> <span class='ocrx_word' id='word_1_9' title='bbox 628 1923 900 2009; x_wconf 77' lang='lat' dir='ltr'>REOTORIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 220 2176 620 2267">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 220 2176 620 2267">
+     <span class='ocr_line' id='line_1_4' title="bbox 220 2176 620 2267; baseline 0.003 -26"><span class='ocrx_word' id='word_1_10' title='bbox 220 2260 224 2267; x_wconf 15' lang='lat'>¹</span> <span class='ocrx_word' id='word_1_11' title='bbox 395 2176 620 2247; x_wconf 68' lang='lat' dir='ltr'>MFMORIAE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1224 4380">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1224 4380">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1224 4380; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1224 4380; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
